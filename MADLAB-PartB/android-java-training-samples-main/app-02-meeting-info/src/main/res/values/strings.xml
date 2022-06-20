@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meeting Info</string>
+    <string name="heading">Meeting Info</string>
+    <string name="loadButtonText">Search</string>
+</resources>

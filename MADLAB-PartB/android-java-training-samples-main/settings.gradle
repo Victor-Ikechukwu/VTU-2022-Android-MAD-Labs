@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Samples"
+include ':app-01-a-medicine-db'
+include ':app-01-b-alarm_manager'
+include ':app-02-meeting-schedule'
+include ':app-02-meeting-info'
+include ':app-03-sms'
+include ':app-04-file-operation'
+include ':app-05-media-player'
+include ':app-06-async-task'
+include ':app-07-clipboard'
+include ':app-08-car-emi-calculator'

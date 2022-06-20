@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Medicines</string>
+    <string name="form_heading">Medicine Database</string>
+    <string name="medicine_name">Medicine Name:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time of the Day:</string>
+    <string name="insert">Insert</string>
+
+</resources>

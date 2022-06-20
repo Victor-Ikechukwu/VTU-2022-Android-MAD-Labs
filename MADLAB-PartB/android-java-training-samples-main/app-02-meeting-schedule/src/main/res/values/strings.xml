@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meeting Schedule</string>
+    <string name="heading">Meeting Schedule</string>
+    <string name="hintText">Enter Meeting date</string>
+    <string name="insertButtontext">Add Meeting Agenda</string>
+    <string name="loadButtonText">Load Data</string>
+</resources>
